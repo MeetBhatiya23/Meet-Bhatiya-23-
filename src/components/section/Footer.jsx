@@ -108,7 +108,7 @@ const Footer = () => {
                     </SocialMediaIcon>
                 </SocialMediaIcons>
                 <Copyright>
-                    &copy; 2024 Rishav Chanda. All rights reserved.
+                    &copy; 2024 Meet Bhatiya. All rights reserved.
                 </Copyright>
             </FooterWrapper>
         </FooterContainer>

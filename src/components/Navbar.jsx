@@ -68,7 +68,7 @@ const ButtonContainer = styled.div`
         display: none;
     }
 `;
-const GithubButton = styled.div`
+const GithubButton = styled.a`
     border: 1px solid ${({ theme }) => theme.primary};
     color: ${({ theme }) => theme.primary};
     display: flex;
@@ -183,7 +183,9 @@ const Navbar = () => {
                 </NavItems>
 
                 <ButtonContainer>
-                    <GithubButton>Github Profile</GithubButton>
+                    <GithubButton href={Bio.github} target="_Blank">
+                        Github Profile
+                    </GithubButton>
                 </ButtonContainer>
             </NavbarContainer>
         </Nav>

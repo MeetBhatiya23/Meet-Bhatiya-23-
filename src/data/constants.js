@@ -3,9 +3,9 @@ export const Bio = {
     roles: ["Full Stack Developer", "UI/UX Designer", "Programmer"],
     description:
         "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-    github: "/",
+    github: "https://github.com/MeetBhatiya23",
     resume: "/",
-    linkedin: "/",
+    linkedin: "https://www.linkedin.com/in/meet-bhatiya-182472314/",
     twitter: "/",
     insta: "/",
     facebook: "/",
@@ -403,7 +403,7 @@ export const projects = [
         ],
         category: "design web",
         github: "",
-        webapp: "https://decisionhub.netlify.app/",
+        webapp: "https://cssninja.netlify.app/",
     },
     {
         id: 9,
@@ -438,7 +438,7 @@ export const projects = [
         image: "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
         tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
         category: "web app",
-        github: "https://github.com/rishavchanda/Podstream",
+        github: "",
         webapp: "https://podstream.netlify.app/",
         // member: [
         //     {
@@ -485,7 +485,7 @@ export const projects = [
         image: "/website-images/soda.png",
         tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
         category: "design web",
-        github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+        github: "",
         webapp: "https://brain-tumor.netlify.app/",
    
     },
@@ -498,20 +498,20 @@ export const projects = [
         image: "/website-images/ai.png",
         tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
         category: "web app",
-        github: "https://github.com/rishavchanda/Buckoid-Android-App",
+        github: "",
         webapp: "https://i-store-ai-frontend-ten.vercel.app/",
     },
     {
         id: 10,
-        title: "Job Finding App",
+        title: "PG Finder",
         date: "Jun 2023 - Jul 2023",
         description:
             "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
         image: "/website-images/city.png",
         tags: ["React Native", "JavaScript", "Axios"],
         category: "design web",
-        github: "https://github.com/rishavchanda/Job-finder-App",
-        webapp: "https://github.com/rishavchanda/Job-finder-App",
+        github: "https://pgroom.netlify.app/",
+        webapp: "https://pgroom.netlify.app/",
     },
    
 ];
